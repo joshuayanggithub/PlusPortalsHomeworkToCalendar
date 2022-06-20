@@ -1,0 +1,5 @@
+email = "@gmail.com"
+password = ""
+student_id = ""
+school = "QuarryLaneSchool"
+api_key = ""
